@@ -9,7 +9,7 @@ img {
 <body>
 
 <p align="center" style="font-size:50px;">CIAO PUPA!</p>
-<img src="cuore.png"></img>
+<img src="cuore.png">
 
 </body>
 </html>
